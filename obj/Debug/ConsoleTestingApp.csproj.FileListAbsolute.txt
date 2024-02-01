@@ -1,0 +1,7 @@
+C:\Projects\C#\ConsoleTestingApp\ConsoleTestingApp\bin\Debug\ConsoleTestingApp.exe.config
+C:\Projects\C#\ConsoleTestingApp\ConsoleTestingApp\bin\Debug\ConsoleTestingApp.exe
+C:\Projects\C#\ConsoleTestingApp\ConsoleTestingApp\bin\Debug\ConsoleTestingApp.pdb
+C:\Projects\C#\ConsoleTestingApp\ConsoleTestingApp\obj\Debug\ConsoleTestingApp.csproj.AssemblyReference.cache
+C:\Projects\C#\ConsoleTestingApp\ConsoleTestingApp\obj\Debug\ConsoleTestingApp.csproj.CoreCompileInputs.cache
+C:\Projects\C#\ConsoleTestingApp\ConsoleTestingApp\obj\Debug\ConsoleTestingApp.exe
+C:\Projects\C#\ConsoleTestingApp\ConsoleTestingApp\obj\Debug\ConsoleTestingApp.pdb
